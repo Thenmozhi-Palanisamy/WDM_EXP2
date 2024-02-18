@@ -43,14 +43,13 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 Buying
-```
+
 
 ![image](https://github.com/Thenmozhi-Palanisamy/WDM_EXP2/assets/95198708/2f1617ee-3b8b-4949-b559-84d13dddd2a3)
 
-```
 Banking
 
-```
+
 ![image](https://github.com/Thenmozhi-Palanisamy/WDM_EXP2/assets/95198708/266846bb-2880-480e-adc4-890296873b17)
 
 ````
