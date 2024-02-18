@@ -52,7 +52,11 @@ Banking
 
 ![image](https://github.com/Thenmozhi-Palanisamy/WDM_EXP2/assets/95198708/266846bb-2880-480e-adc4-890296873b17)
 
-````
+Employee
+
+![image](https://github.com/Thenmozhi-Palanisamy/WDM_EXP2/assets/95198708/56b295a7-e46b-4de7-9ea3-b5a0a33c46b5)
+
+
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Open explorer.
@@ -63,10 +67,20 @@ Banking
 
 ### OUTPUT:
 
+Buying
 
+![image](https://github.com/Thenmozhi-Palanisamy/WDM_EXP2/assets/95198708/0022d356-e579-46e1-b924-9e1082c7ad2f)
 
+Banking
 
-```
+![image](https://github.com/Thenmozhi-Palanisamy/WDM_EXP2/assets/95198708/50c20e96-1339-4eab-8bb2-01aa447ede07)
+
+Employee
+
+![image](https://github.com/Thenmozhi-Palanisamy/WDM_EXP2/assets/95198708/56610c1b-150b-4a63-b76f-6863f802def4)
+
 
 
 ### RESULT: 
+
+Thus, generation of association rules using apriori algorithm is executed succesfully.
