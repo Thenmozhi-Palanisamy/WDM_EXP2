@@ -42,8 +42,18 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+Buying
+```
 
+![image](https://github.com/Thenmozhi-Palanisamy/WDM_EXP2/assets/95198708/2f1617ee-3b8b-4949-b559-84d13dddd2a3)
 
+```
+Banking
+
+```
+![image](https://github.com/Thenmozhi-Palanisamy/WDM_EXP2/assets/95198708/266846bb-2880-480e-adc4-890296873b17)
+
+````
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Open explorer.
@@ -53,5 +63,11 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+
+
+
+
+```
+
 
 ### RESULT: 
